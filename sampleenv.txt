@@ -1,0 +1,11 @@
+Add these fields in .env file
+
+MONGO_URI=
+PORT=5000
+JWT_SECRET=
+NODE_ENV=development
+
+MAILTRAP_TOKEN=
+MAILTRAP_ENDPOINT=
+
+CLIENT_URL=
